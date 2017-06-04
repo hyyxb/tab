@@ -4,3 +4,6 @@ function move(){
 	
 }
 
+function down(){
+	
+}
