@@ -5,5 +5,5 @@ function move(){
 }
 
 function down(){
-	
+	console.log(k)
 }
